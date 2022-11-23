@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Initial project : [redux-essentials-counter-example](https://github.com/reduxjs/redux-essentials-counter-example)
 
+https://react-redux.js.org/
+
 ## Available Scripts
 
 In the project directory, you can run:
